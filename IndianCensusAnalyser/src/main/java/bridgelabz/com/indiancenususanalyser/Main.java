@@ -26,6 +26,9 @@ public class Main
 			} catch (CsvException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+			} catch (InvalidCensusDataException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
 
 	        // Check if the number of records matches

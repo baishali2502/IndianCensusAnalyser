@@ -15,6 +15,7 @@ public class Main
 
 	        // Create CSVStateCensus instance
 	        CSVStateCensus csvStateCensus = new CSVStateCensus();
+	        
 	//--------------------------------------- UC-1 ----------------------------------------------
 	        // Load census data
 	        List<StateCensusData> censusDataList=null;
